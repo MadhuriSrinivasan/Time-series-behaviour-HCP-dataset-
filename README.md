@@ -1,2 +1,2 @@
 # Time-series-behaviour-HCP-dataset-
-This was done as a part of the Neuromatch Academy Computational Neuroscience Summer School 
+Explored the relationship between reward processing and decision-making during simulated gambling at the level of behaviour and brain activity from an fMRI dataset. Performed Multiple Linear Regression and constructed a Representational (dis)Similarity Analysis to look at the association between response times, choice selection, and feedback processing across trials in the gambling experiment.
